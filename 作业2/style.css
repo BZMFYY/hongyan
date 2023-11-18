@@ -1,0 +1,30 @@
+div {
+    text-align: center;
+}
+.div1 {
+    text-align: right;
+}
+a {
+    text-decoration: none;
+}
+body {
+    font: font-style font-weight font-size/line-height font-family;
+    font: normal 500 16px/28px 'Microsoft yahei';
+ }
+ .button {
+    background-color: rgb(6, 172, 228);
+    font-weight: 400;
+ }
+.pic {
+    text-align: center;
+ }
+ .first {
+    height: 200px;
+ }
+ .second {
+    color: rgb(145, 145, 145);
+ }
+ .thrid {
+    color: rgb(145, 145, 145);
+    text-decoration: underline;
+ }
